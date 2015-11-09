@@ -1,1 +1,1 @@
-How do you install npm?
+How do you install express globally?

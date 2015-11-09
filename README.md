@@ -2,6 +2,10 @@
 
 Practice problems to hone your basic Node and Express skills.
 
+Repetition, repetition, repetition.
+
+It sucks, but keep doing these problems till you can answer them all from memory.
+
 I've broken up this [really long](https://www.youtube.com/watch?v=Zao1BWC-RWo) (but awesome) video into smaller sections:
 
 - [Creating a web server with node](https://youtu.be/Zao1BWC-RWo?t=7m24s)
@@ -14,4 +18,6 @@ I've broken up this [really long](https://www.youtube.com/watch?v=Zao1BWC-RWo) (
 - [Using templates](https://youtu.be/Zao1BWC-RWo?t=43m23s)
 - [Passing data to templates](https://youtu.be/Zao1BWC-RWo?t=48m)
 - [Adding Bootstrap via the CDN](https://youtu.be/Zao1BWC-RWo?t=52m18s)
+- [View partials](https://youtu.be/Zao1BWC-RWo?t=55m)
+- [Locals object to pass information to partials](https://youtu.be/Zao1BWC-RWo?t=1h3m44s)
 

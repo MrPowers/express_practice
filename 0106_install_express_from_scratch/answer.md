@@ -4,7 +4,7 @@ Create a folder for the node project
 
 mkdir ~/Desktop/some_express_project
 
-Run `npm init` to get the project set up.
+Run `npm init` to get the package.json file set up.
 
 The package.json file should look something like this:
 

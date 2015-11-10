@@ -1,4 +1,4 @@
-Use the following data to create a unordered list of links to the social media images.
+Use the following data (in the `data.json` file) to create a unordered list of links to the social media images.
 
 ```json
 {

@@ -1,6 +1,6 @@
 Add the application data to the project.  The data is below.
 
-Add the meeting location, date, and time to the `nextmeeting.ejs` file.
+Add the meeting location, date, and time to the `index.ejs` file.
 
 ```json
 {

@@ -6,7 +6,7 @@ app.locals.appdata = require('./data.json');
 
 `appdata` is now accessible in all the views.
 
-We can add this code to `views/partials/content/nextmeeting.ejs`:
+We can add this code to `index.ejs`:
 
 ```html
 <%= appdata.meeting.date %>, <%= appdata.meeting.time %> at <%= appdata.meeting.where.name %>
